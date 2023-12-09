@@ -10,7 +10,7 @@ function Home() {
         <div className="text-center flex flex-col items-center justify-center gap-5 ">
           <h1 className="text-[100px] text-white">Services</h1>
           <input
-            className="rounded-md p-3 w-[50vw]"
+            className="rounded-md p-3 w-[50vw] text-center text-sm md:text-xl"
             type="text"
             placeholder="Search by Address or Area"
           />
