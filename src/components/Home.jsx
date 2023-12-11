@@ -9,7 +9,7 @@ function Home() {
       <div className="flex items-center justify-center h-full absolute inset-0">
         <div className="text-center flex flex-col items-center justify-center gap-5 ">
           <h1 className="text-[100px] text-white">Services</h1>
-          <h1 className="bg-white text-xl md:text-3xl p-2">
+          <h1 className="bg-white text-sm md:text-3xl p-2">
             https://github.com/james1821/HansenInspired
           </h1>
         </div>
