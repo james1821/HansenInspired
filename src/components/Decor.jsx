@@ -11,9 +11,9 @@ import "swiper/css";
 function Decor() {
   return (
     <div>
-      <div className="md:grid grid-cols-2  text-center md:p-[200px]  ">
+      <div className="md:grid grid-cols-2  text-center md:px-[200px]  ">
         <div
-          className=" h-[200px] md:h-[500px] bg-cover flex flex-col items-center justify-center"
+          className=" h-[200px] md:h-[400px] bg-cover flex flex-col items-center justify-center"
           style={{
             backgroundImage:
               'url("https://res.cloudinary.com/luxuryp/images/w_1280,c_limit,f_auto,q_auto/ghtq7jtce7tsgdjtosrs/image-025")',
@@ -29,7 +29,7 @@ function Decor() {
         </div>
 
         <div
-          className=" h-[200px] md:h-[500px] bg-cover flex flex-col items-center justify-center"
+          className=" h-[200px] md:h-[400px] bg-cover flex flex-col items-center justify-center"
           style={{
             backgroundImage:
               'url("https://res.cloudinary.com/luxuryp/images/w_1280,c_limit,f_auto,q_auto/axx0whb7xfmlwhvcckrr/image-023")', // Provide the URL for the second image
