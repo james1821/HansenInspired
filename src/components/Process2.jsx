@@ -18,20 +18,20 @@ function Process2() {
       ></div>
       <div className="h-full w-full absolute inset-0 bg-white bg-opacity-80"></div>
       <div className="text-black text-center flex flex-col items-center justify-center absolute inset-0">
-        <h1 className="text-center md:text-6xl text-3xl font-bold p-10">
+        <h1 className="text-center md:text-6xl text-5xl font-bold p-10">
           The Buying Process
         </h1>
         <div className="flex  md:flex-col text-4xl md:text-6xl font-bold items-center justify-center">
           <div className="flex flex-col gap-4 items-center justify-center ">
-            <CountUp end={1} duration={3} enableScrollSpy />
+            <CountUp end={1} duration={1} enableScrollSpy />
             <p className="md:text-xl text-sm">
               INITIAL CONSULTATION & PLANNING
             </p>
-            <CountUp end={2} duration={3} enableScrollSpy />
+            <CountUp end={2} duration={1.5} enableScrollSpy />
             <p className="md:text-xl text-sm">
               SEARCH FOR A HOME & GET PRE-APPROVED
             </p>
-            <CountUp end={3} duration={3} enableScrollSpy />
+            <CountUp end={3} duration={2} enableScrollSpy />
             <p className="md:text-xl text-sm">SUBMIT AN OFFER</p>
             <CountUp end={4} duration={3} enableScrollSpy />
             <p className="md:text-xl text-sm">COMPLETE SETTLEMENT PROCESS</p>

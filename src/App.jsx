@@ -7,6 +7,8 @@ import Process from "./components/Process";
 import Process2 from "./components/Process2";
 import Overview from "./components/Overview";
 import WeMarket from "./components/WeMarket";
+import OurPartners from "./components/OurPartners";
+import Tablet from "./components/Tablet";
 function App() {
   return (
     <>
@@ -18,6 +20,8 @@ function App() {
       <Process2 />
       <Overview />
       <WeMarket />
+      <OurPartners />
+      <Tablet />
     </>
   );
 }

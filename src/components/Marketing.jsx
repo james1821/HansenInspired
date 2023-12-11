@@ -26,9 +26,9 @@ function Marketing() {
               src="https://res.cloudinary.com/luxuryp/images/f_auto,q_auto/ks8ztlvw2b35q5qgs6xn/image-011"
               alt="Responsive"
             />
-            <h2 className="text-xl font-bold mb-2">Responsive</h2>
+            <h2 className="text-xl font-bold mb-2">Syndication</h2>
             <p className="text-gray-600">
-              I am always available via phone, text, or email.
+              I market your property locally, nationally, and internationally
             </p>
           </div>
         </Slide>
@@ -39,9 +39,9 @@ function Marketing() {
               src="https://res.cloudinary.com/luxuryp/images/f_auto,q_auto/zr3bugldblvebixagfs1/image-009"
               alt="Responsive"
             />
-            <h2 className="text-xl font-bold mb-2">Responsive</h2>
+            <h2 className="text-xl font-bold mb-2">Virtual Tour</h2>
             <p className="text-gray-600">
-              I am always available via phone, text, or email.
+              Let's make your home stand out with a high quality virtual tour.
             </p>
           </div>
         </Slide>
@@ -52,9 +52,10 @@ function Marketing() {
               src="https://res.cloudinary.com/luxuryp/images/f_auto,q_auto/dywgmsgzddtcsqxagbwh/image-013"
               alt="Responsive"
             />
-            <h2 className="text-xl font-bold mb-2">Responsive</h2>
+            <h2 className="text-xl font-bold mb-2">Photography</h2>
             <p className="text-gray-600">
-              I am always available via phone, text, or email.
+              Beatiful, high-end photography is a central part of our marketing
+              plan for your property.
             </p>
           </div>
         </Slide>
